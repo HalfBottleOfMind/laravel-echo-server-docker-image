@@ -1,5 +1,5 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/sergeevpasha/laravel-echo-server-docker-image/badge)](https://www.codefactor.io/repository/github/sergeevpasha/laravel-echo-server-docker-image)
-![Docker Image CI](https://github.com/sergeevpasha/laravel-echo-server-docker-image/workflows/Docker%20Image%20CI/badge.svg?branch=master)
+![Docker Image CI](https://github.com/sergeevpasha/laravel-echo-server-docker-image/workflows/Docker%20Image%20CI/badge.svg)
 
 # A docker image for Laravel Echo Server
 
